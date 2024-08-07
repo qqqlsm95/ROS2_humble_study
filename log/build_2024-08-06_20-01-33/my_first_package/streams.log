@@ -1,0 +1,31 @@
+[0.760s] Invoking command in '/home/lsm/ros2_humble/src/my_first_package': PYTHONPATH=/home/lsm/ros2_humble/build/my_first_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_first_package build --build-base /home/lsm/ros2_humble/build/my_first_package/build install --record /home/lsm/ros2_humble/build/my_first_package/install.log --single-version-externally-managed install_data
+[1.325s] running egg_info
+[1.326s] writing ../../build/my_first_package/my_first_package.egg-info/PKG-INFO
+[1.326s] writing dependency_links to ../../build/my_first_package/my_first_package.egg-info/dependency_links.txt
+[1.326s] writing entry points to ../../build/my_first_package/my_first_package.egg-info/entry_points.txt
+[1.327s] writing requirements to ../../build/my_first_package/my_first_package.egg-info/requires.txt
+[1.327s] writing top-level names to ../../build/my_first_package/my_first_package.egg-info/top_level.txt
+[1.329s] reading manifest file '../../build/my_first_package/my_first_package.egg-info/SOURCES.txt'
+[1.331s] writing manifest file '../../build/my_first_package/my_first_package.egg-info/SOURCES.txt'
+[1.331s] running build
+[1.331s] running build_py
+[1.331s] copying my_first_package/dist_turtle_action_server.py -> /home/lsm/ros2_humble/build/my_first_package/build/lib/my_first_package
+[1.332s] running install
+[1.332s] running install_lib
+[1.334s] copying /home/lsm/ros2_humble/build/my_first_package/build/lib/my_first_package/dist_turtle_action_server.py -> /home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.335s] byte-compiling /home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package/dist_turtle_action_server.py to dist_turtle_action_server.cpython-310.pyc
+[1.335s] Sorry: TabError: inconsistent use of tabs and spaces in indentation (dist_turtle_action_server.py, line 33)
+[1.335s] running install_data
+[1.335s] running install_egg_info
+[1.338s] removing '/home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package-0.0.0-py3.10.egg-info' (and everything under it)
+[1.338s] Copying ../../build/my_first_package/my_first_package.egg-info to /home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package-0.0.0-py3.10.egg-info
+[1.340s] running install_scripts
+[1.369s] Installing dist_turtle_action_server script to /home/lsm/ros2_humble/install/my_first_package/lib/my_first_package
+[1.369s] Installing my_first_node script to /home/lsm/ros2_humble/install/my_first_package/lib/my_first_package
+[1.369s] Installing my_multi_thread script to /home/lsm/ros2_humble/install/my_first_package/lib/my_first_package
+[1.369s] Installing my_publisher script to /home/lsm/ros2_humble/install/my_first_package/lib/my_first_package
+[1.369s] Installing my_service_server script to /home/lsm/ros2_humble/install/my_first_package/lib/my_first_package
+[1.369s] Installing my_subscriber script to /home/lsm/ros2_humble/install/my_first_package/lib/my_first_package
+[1.370s] Installing turtle_cmd_and_pose script to /home/lsm/ros2_humble/install/my_first_package/lib/my_first_package
+[1.370s] writing list of installed files to '/home/lsm/ros2_humble/build/my_first_package/install.log'
+[1.400s] Invoked command in '/home/lsm/ros2_humble/src/my_first_package' returned '0': PYTHONPATH=/home/lsm/ros2_humble/build/my_first_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_first_package build --build-base /home/lsm/ros2_humble/build/my_first_package/build install --record /home/lsm/ros2_humble/build/my_first_package/install.log --single-version-externally-managed install_data

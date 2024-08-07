@@ -1,0 +1,5 @@
+  File "/home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package/turtle_cmd_and_pose.py", line 7
+    	def__init__(self):
+    	                 ^
+SyntaxError: invalid syntax
+

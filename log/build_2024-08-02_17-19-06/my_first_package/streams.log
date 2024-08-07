@@ -1,0 +1,37 @@
+[0.701s] Invoking command in '/home/lsm/ros2_humble/src/my_first_package': PYTHONPATH=/home/lsm/ros2_humble/build/my_first_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_first_package build --build-base /home/lsm/ros2_humble/build/my_first_package/build install --record /home/lsm/ros2_humble/build/my_first_package/install.log --single-version-externally-managed install_data
+[0.876s] running egg_info
+[0.876s] creating ../../build/my_first_package/my_first_package.egg-info
+[0.876s] writing ../../build/my_first_package/my_first_package.egg-info/PKG-INFO
+[0.877s] writing dependency_links to ../../build/my_first_package/my_first_package.egg-info/dependency_links.txt
+[0.877s] writing entry points to ../../build/my_first_package/my_first_package.egg-info/entry_points.txt
+[0.877s] writing requirements to ../../build/my_first_package/my_first_package.egg-info/requires.txt
+[0.877s] writing top-level names to ../../build/my_first_package/my_first_package.egg-info/top_level.txt
+[0.877s] writing manifest file '../../build/my_first_package/my_first_package.egg-info/SOURCES.txt'
+[0.878s] reading manifest file '../../build/my_first_package/my_first_package.egg-info/SOURCES.txt'
+[0.878s] writing manifest file '../../build/my_first_package/my_first_package.egg-info/SOURCES.txt'
+[0.878s] running build
+[0.878s] running build_py
+[0.878s] creating /home/lsm/ros2_humble/build/my_first_package/build
+[0.878s] creating /home/lsm/ros2_humble/build/my_first_package/build/lib
+[0.878s] creating /home/lsm/ros2_humble/build/my_first_package/build/lib/my_first_package
+[0.878s] copying my_first_package/__init__.py -> /home/lsm/ros2_humble/build/my_first_package/build/lib/my_first_package
+[0.878s] copying my_first_package/my_first_node.py -> /home/lsm/ros2_humble/build/my_first_package/build/lib/my_first_package
+[0.879s] running install
+[0.879s] running install_lib
+[0.879s] creating /home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[0.879s] copying /home/lsm/ros2_humble/build/my_first_package/build/lib/my_first_package/__init__.py -> /home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[0.879s] copying /home/lsm/ros2_humble/build/my_first_package/build/lib/my_first_package/my_first_node.py -> /home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[0.880s] byte-compiling /home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package/__init__.py to __init__.cpython-310.pyc
+[0.880s] byte-compiling /home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package/my_first_node.py to my_first_node.cpython-310.pyc
+[0.880s] running install_data
+[0.880s] creating /home/lsm/ros2_humble/install/my_first_package/share/ament_index
+[0.880s] creating /home/lsm/ros2_humble/install/my_first_package/share/ament_index/resource_index
+[0.880s] creating /home/lsm/ros2_humble/install/my_first_package/share/ament_index/resource_index/packages
+[0.880s] copying resource/my_first_package -> /home/lsm/ros2_humble/install/my_first_package/share/ament_index/resource_index/packages
+[0.880s] copying package.xml -> /home/lsm/ros2_humble/install/my_first_package/share/my_first_package
+[0.880s] running install_egg_info
+[0.881s] Copying ../../build/my_first_package/my_first_package.egg-info to /home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package-0.0.0-py3.10.egg-info
+[0.882s] running install_scripts
+[0.896s] Installing my_first_node script to /home/lsm/ros2_humble/install/my_first_package/lib/my_first_package
+[0.896s] writing list of installed files to '/home/lsm/ros2_humble/build/my_first_package/install.log'
+[0.915s] Invoked command in '/home/lsm/ros2_humble/src/my_first_package' returned '0': PYTHONPATH=/home/lsm/ros2_humble/build/my_first_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_first_package build --build-base /home/lsm/ros2_humble/build/my_first_package/build install --record /home/lsm/ros2_humble/build/my_first_package/install.log --single-version-externally-managed install_data

@@ -1,0 +1,27 @@
+[0.652s] Invoking command in '/home/lsm/ros2_humble/src/my_first_package': PYTHONPATH=/home/lsm/ros2_humble/build/my_first_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_first_package build --build-base /home/lsm/ros2_humble/build/my_first_package/build install --record /home/lsm/ros2_humble/build/my_first_package/install.log --single-version-externally-managed install_data
+[0.884s] running egg_info
+[0.884s] writing ../../build/my_first_package/my_first_package.egg-info/PKG-INFO
+[0.885s] writing dependency_links to ../../build/my_first_package/my_first_package.egg-info/dependency_links.txt
+[0.885s] writing entry points to ../../build/my_first_package/my_first_package.egg-info/entry_points.txt
+[0.885s] writing requirements to ../../build/my_first_package/my_first_package.egg-info/requires.txt
+[0.885s] writing top-level names to ../../build/my_first_package/my_first_package.egg-info/top_level.txt
+[0.887s] reading manifest file '../../build/my_first_package/my_first_package.egg-info/SOURCES.txt'
+[0.889s] writing manifest file '../../build/my_first_package/my_first_package.egg-info/SOURCES.txt'
+[0.889s] running build
+[0.889s] running build_py
+[0.889s] copying my_first_package/turtle_cmd_and_pose.py -> /home/lsm/ros2_humble/build/my_first_package/build/lib/my_first_package
+[0.889s] running install
+[0.890s] running install_lib
+[0.890s] copying /home/lsm/ros2_humble/build/my_first_package/build/lib/my_first_package/turtle_cmd_and_pose.py -> /home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[0.891s] byte-compiling /home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package/turtle_cmd_and_pose.py to turtle_cmd_and_pose.cpython-310.pyc
+[0.892s] running install_data
+[0.893s] running install_egg_info
+[0.894s] removing '/home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package-0.0.0-py3.10.egg-info' (and everything under it)
+[0.895s] Copying ../../build/my_first_package/my_first_package.egg-info to /home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages/my_first_package-0.0.0-py3.10.egg-info
+[0.896s] running install_scripts
+[0.923s] Installing my_first_node script to /home/lsm/ros2_humble/install/my_first_package/lib/my_first_package
+[0.923s] Installing my_publisher script to /home/lsm/ros2_humble/install/my_first_package/lib/my_first_package
+[0.923s] Installing my_subscriber script to /home/lsm/ros2_humble/install/my_first_package/lib/my_first_package
+[0.923s] Installing turtle_cmd_and_pose script to /home/lsm/ros2_humble/install/my_first_package/lib/my_first_package
+[0.924s] writing list of installed files to '/home/lsm/ros2_humble/build/my_first_package/install.log'
+[0.955s] Invoked command in '/home/lsm/ros2_humble/src/my_first_package' returned '0': PYTHONPATH=/home/lsm/ros2_humble/build/my_first_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lsm/ros2_humble/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_first_package build --build-base /home/lsm/ros2_humble/build/my_first_package/build install --record /home/lsm/ros2_humble/build/my_first_package/install.log --single-version-externally-managed install_data
